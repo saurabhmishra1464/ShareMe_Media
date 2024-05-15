@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'shareme_media',
 
-  projectId: 'jocff1hw',
+  projectId: 'c7wq1c1i',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
